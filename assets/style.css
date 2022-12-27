@@ -60,9 +60,12 @@ hr{
     margin: 0 20px;
     font-size: 16pt;
 }
-
+h1, p{
+    color: rgb (245, 245, 245);
+}
 #pfooter{
     text-align: center;
     margin-bottom: 50px;
+    color: rgb (245, 245, 245);
     
 }
